@@ -1,0 +1,10 @@
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.csproj.AssemblyReference.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmHethong.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.Properties.Resources.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.csproj.GenerateResource.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.csproj.CoreCompileInputs.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.pdb

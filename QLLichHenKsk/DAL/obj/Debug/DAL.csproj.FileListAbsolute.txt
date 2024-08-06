@@ -1,0 +1,26 @@
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DAL.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DAL.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DAL.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DTO.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DTO.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\bin\Debug\DTO.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\DAL\obj\Debug\DAL.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DAL.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DAL.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DAL.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DTO.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DTO.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\bin\Debug\DTO.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DAL\obj\Debug\DAL.pdb

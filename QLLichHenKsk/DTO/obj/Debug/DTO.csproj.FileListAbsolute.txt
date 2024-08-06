@@ -1,0 +1,18 @@
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\bin\Debug\DTO.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\bin\Debug\DTO.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\bin\Debug\DTO.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\bin\Debug\DTO.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\bin\Debug\DTO.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\bin\Debug\DTO.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\DTO\obj\Debug\DTO.pdb

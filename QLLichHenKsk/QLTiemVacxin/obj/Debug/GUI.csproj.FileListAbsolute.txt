@@ -1,0 +1,94 @@
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\QLTiemVacxin.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmQuanly.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmDangnhap.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.Properties.Resources.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\BUS.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DTO.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\BUS.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\BUS.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DTO.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DTO.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\GUI.csproj.CopyComplete
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DAL.exe
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DAL.pdb
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\DAL.exe.config
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmNguoitiem.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmTimNT.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmTimphieutiem.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmNhanvien.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmVacxin.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmPhieutiem.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.Shared.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\stdole.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\bin\Debug\ShockwaveFlashObjects.dll
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmInPT.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmBackup.resources
+D:\BT\CNPM\My Projects\QLTiemVacxin\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmRestore.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\BUS.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DTO.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DAL.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\ShockwaveFlashObjects.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\stdole.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\BUS.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\BUS.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DTO.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DTO.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DAL.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\DAL.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmBackup.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmKhachHang.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmNhanvien.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmPhieuHen.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmQuanly.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmRestore.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmTimKH.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmTimphieuhen.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmBacSi.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\GUI.csproj.CopyComplete
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\QLLichHen.exe.config
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\QLLichHen.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\bin\Debug\QLLichHen.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLLichHen.Properties.Resources.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLLichHen.exe
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLLichHen.pdb
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLLichHen.frmInPH.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLLichHen.frmLichTN.resources
+D:\Bài Giảng\CDTN KTPM1\DOAN\QLLichHenKsk\QLTiemVacxin\obj\Debug\QLTiemVacxin.frmDangNhap.resources
